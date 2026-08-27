@@ -14,3 +14,6 @@ my first pcb project: a usb pomodoro timer
 | 0805 SMD LEDs | 6 | $ 2.43 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
 | Shipping |  | ~ $ 35.00 | |
 | Total |     | ~ § 40.49 | |
+
+
+(onshape link: https://cad.onshape.com/documents/177762d436c217a9aff06dc5/w/83f6144ef2d4be5b708dd7f0/e/6c6f59c3ce17ec4403d9fee3?renderMode=0&uiState=6a90b07a0fc47dc81437df1d)
