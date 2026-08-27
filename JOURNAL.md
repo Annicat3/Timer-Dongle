@@ -27,3 +27,16 @@ After that I assigned the footprints. It took me a while to understand how the f
 <img src="https://github.com/user-attachments/assets/58e5e19e-f344-40d2-8b8e-42faf2d30571" />
 
 Next, I'm going to start designing the actual PCB! I still have to decide on a shape for the board.
+
+### August 27: PCB Design
+*Time spent: 4 hours*  
+I finally got to the exciting part: designing the actual PCB! I started by arranging all the components and experimenting with different shapes. 
+After trying out a few ideas, I decided to make the PCB shaped like a cat! I think it looks really cute.
+
+<img src="https://github.com/user-attachments/assets/4bd83e20-2e4c-420c-aa89-aa4b9ef2d278" />
+
+Routing everything was definitely challenging, especially around the microcontroller wher there are lots of connections close together. 
+I also drawed a cute, simple cat face to the empty space on the pcb and added a tiny HackClub flag.
+
+Next, I have to write the BOM (I really don't know how to do that) and design a 3D Case.
+
