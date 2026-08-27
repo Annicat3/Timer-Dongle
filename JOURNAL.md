@@ -40,3 +40,9 @@ I also drawed a cute, simple cat face to the empty space on the pcb and added a 
 
 Next, I have to write the BOM (I really don't know how to do that) and design a 3D Case.
 
+### August 27: BOM and Onshape
+*Time spent: 2 hours*
+I worked on the Bill of Materials. This was a little more complicated than I excepted because I had to make sure that the parts actually matched my footprint, were available and could be ordered in the quantities I needed. I had to look at several different options for some components, especially the buttons and leds.
+
+I also tried making a simple case for the PCB in Onshape. I had never really used Onshape before, so I had to experiment a bit. My original idea was to create a wall around the PCB and add a small overhang at the top to hold the PCB in place when the case was turned upside down. Unfortunately, I couldn't get the overhang to work the way I wanted.
+It didn't turned out how I originally imagined it, but I still like it.
