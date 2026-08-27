@@ -1,5 +1,38 @@
 # Timer-Dongle
-my first pcb project: a usb pomodoro timer
+
+[picture]
+
+## What is it?
+This project is a small USB timer based on the CH552G microcontroller. It has 6 LEDs, a piezo buzzer and 2 buttons.  
+The time can be selected in 10-minute steps, from 10 to 60 minutes. The LEDs show the selected time ans later show the progress of the timer. 
+When the Timer finishes, the LEDs blink and the buzzer makes a sound.  
+
+## Why did I make it?
+I wanted to make something useful that I could actually use while working or studying. I also thought it would be fun to turn a simple electronic project into something with personality.  
+Instead of using a normal rectangular PCB, I designed mine in the shape of a cat. I also added a small cat face and other details to the silkscreen.  
+
+## How does it work?
+1. Plug the timer into a USB port.
+2. Press the time button to choose a time from 10 to 60 minutes.
+3. Press the start button to start the timer.
+4. The six LEDs slowly turn off as the timer runs.
+5. When the timer reaches zero, the LEDs blink and the buzzer sounds.
+6. Press the time button to stop the alarm and choose a new time.
+
+## PCB  
+I designed the schematic and PCB in KiCad.
+
+
+### Schematic
+
+### 3D View
+
+## Firmware
+The Firmware is written for the CH552G using CH55xduino. 
+
+## CAD
+I also experimented with designing a simple case for the PCB in Onshape.  
+[Onshape link](https://cad.onshape.com/documents/177762d436c217a9aff06dc5/w/83f6144ef2d4be5b708dd7f0/e/6c6f59c3ce17ec4403d9fee3?renderMode=0&uiState=6a90b07a0fc47dc81437df1d)
 
 
 ## Bill of Materials (BOM)
@@ -14,6 +47,3 @@ my first pcb project: a usb pomodoro timer
 | 0805 SMD LEDs | 6 | $ 2.43 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
 | Shipping |  | ~ $ 35.00 | |
 | Total |     | ~ § 40.49 | |
-
-
-(onshape link: https://cad.onshape.com/documents/177762d436c217a9aff06dc5/w/83f6144ef2d4be5b708dd7f0/e/6c6f59c3ce17ec4403d9fee3?renderMode=0&uiState=6a90b07a0fc47dc81437df1d)
