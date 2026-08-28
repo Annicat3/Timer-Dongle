@@ -1,6 +1,6 @@
 ## Timer-Dongle
-My first PCB project idk  
-[Total Hours]  
+A small USB timer dongle with 6 LEDs, a buzzer, and a cute cat-shaped PCB.  
+*Total Hours: 13.5 hours*  
 
 
 ### August 26: Started the Timer-Dongle
@@ -41,8 +41,20 @@ I also drawed a cute, simple cat face to the empty space on the pcb and added a 
 Next, I have to write the BOM (I really don't know how to do that) and design a 3D Case.
 
 ### August 27: BOM and Onshape
-*Time spent: 2 hours*
+*Time spent: 2 hours*  
 I worked on the Bill of Materials. This was a little more complicated than I excepted because I had to make sure that the parts actually matched my footprint, were available and could be ordered in the quantities I needed. I had to look at several different options for some components, especially the buttons and leds.
+
+<img width="1163" height="810" alt="CAD-assembly" src="https://github.com/user-attachments/assets/926a5b42-c878-4b37-830c-8f2dbe2aa73b" />
 
 I also tried making a simple case for the PCB in Onshape. I had never really used Onshape before, so I had to experiment a bit. My original idea was to create a wall around the PCB and add a small overhang at the top to hold the PCB in place when the case was turned upside down. Unfortunately, I couldn't get the overhang to work the way I wanted.
 It didn't turned out how I originally imagined it, but I still like it.
+
+### August 28: Final steps and Submission
+*Time spent: 4 hours*  
+For the last part of my project, I worked on the firmware. I already knew the Arduino IDE from school, so this part wasn't too difficult for me.  
+After that, I created the GitHub repository for the project. I uploaded all the files and wrote a README explaining what the Timer Dongle does and how it works. At first, I had uploaded all the files without really organizing them, so everything was a bit messy. I ended up deleting some duplicate files and organizing the remaining files into folders instead.  
+The last thing I was unsure about was the PCB ordering process. I didn't know if i was supposed to order the PCB myself, if someone else would do it, or id JLCPCB was only used to check the price. Luckily someone in the Dongle channel explained everything to me and helpt me understand what I needed to do. 
+
+<img width="1671" height="993" alt="3D-Viewer" src="https://github.com/user-attachments/assets/bc0a31f0-df50-426e-b457-56e5b430f258" />
+
+Now everything is ready and i can finally submit my project! I'm really happy that I made it though all the different parts of the project even though some of them where confusing at first. I learned a lot along the way, especially about PCB design, choosing components, creating a BOM and putting everything together in a repository.
