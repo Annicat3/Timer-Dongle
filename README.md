@@ -43,7 +43,7 @@ I also experimented with designing a simple case for the PCB in Onshape.
 ## Bill of Materials (BOM)
 |Item    |  Qty | Cost | Link |
 |--------|------|------|------|
-|PCB | 5 | $22.14 | [Gerber files](PCB/Timer-Dongle-gerbers.zip) |
+|PCB | 5 | $22.14 | [Gerber files](PCB/Timer-Dongle.gerbers.zip) |
 | 3D printed case | 1 | $0.00 | [Stl File](CAD/Timer.Dongle.stl) |
 |WCH CH552G Microcontroller | 1 | $0.75 | [LCSC C111292](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_WCH-Jiangsu-Qin-Heng-CH552G_C111292.html)|
 | Murata GRM188R72A104KA35D, 100nF, 0603 | 2 | $0.18 | [LCSC C77058](https://www.lcsc.com/product-detail/C77058.html) |
