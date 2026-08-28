@@ -1,5 +1,5 @@
 # Timer-Dongle
-<img width="1600" height="900" alt="3D-Viewer" src="https://github.com/user-attachments/assets/198aa865-ad6b-4abd-abc2-192e2c5db38f" />  
+<img width="1684" height="993" alt="3D-Viewer (2)" src="https://github.com/user-attachments/assets/814b9714-c877-4a1f-814f-734b31035fd9" />
 
 ## What is it?
 This project is a small USB timer based on the CH552G microcontroller. It has 6 LEDs, a piezo buzzer and 2 buttons.  
@@ -21,13 +21,14 @@ Instead of using a normal rectangular PCB, I designed mine in the shape of a cat
 ## PCB  
 I designed the schematic and PCB in KiCad.  
 
-<img width="1254" height="928" alt="PCB" src="https://github.com/user-attachments/assets/e4781889-97f3-4d45-b299-6722d6c87a09" />   
+<img width="1302" height="890" alt="PCB" src="https://github.com/user-attachments/assets/dbe1fb48-d0be-4d46-a564-19963cb2c89e" />  
 
 ### Schematic
-<img width="1544" height="916" alt="Schematics" src="https://github.com/user-attachments/assets/ed7efaac-c5b3-4719-9e10-4f87a40d11d6" />  
+
+<img width="998" height="712" alt="Schematics" src="https://github.com/user-attachments/assets/b1fe3b40-576e-4845-b948-1e12b300433a" />  
 
 ### 3D View
-<img width="1671" height="993" alt="3D-Viewer" src="https://github.com/user-attachments/assets/c35cde60-c479-46e0-b886-8d26e9d85ec0" />
+<img width="1684" height="993" alt="3D-Viewer (2)" src="https://github.com/user-attachments/assets/8d09ad2f-d4ab-4cdf-954b-374bb03c19f1" />
 
 ## Firmware
 The Firmware is written for the CH552G using CH55xduino. 
@@ -42,12 +43,12 @@ I also experimented with designing a simple case for the PCB in Onshape.
 ## Bill of Materials (BOM)
 |Item    |  Qty | Cost | Link |
 |--------|------|------|------|
-|PCB | 1 | $22.14 | [Gerber files](PCB/Timer-Dongle-gerbers.zip) |
+|PCB | 5 | $22.14 | [Gerber files](PCB/Timer-Dongle-gerbers.zip) |
 | 3D printed case | 1 | $0.00 | [Stl File](CAD/Timer.Dongle.stl) |
 |WCH CH552G Microcontroller | 1 | $0.75 | [LCSC C111292](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_WCH-Jiangsu-Qin-Heng-CH552G_C111292.html)|
 | Murata GRM188R72A104KA35D, 100nF, 0603 | 2 | $0.18 | [LCSC C77058](https://www.lcsc.com/product-detail/C77058.html) |
 | YAGEO RT0603BRD07470RL, 470Ω, 0603 | 6 | $0.55 | [LCSC C705779](https://www.lcsc.com/product-detail/C705779.html) |
-| Panasonic ERA3AEB103V, 10kΩ, 0603 | 3 | $0.53 | [LCSC C190610](https://www.lcsc.com/product-detail/C190610.html) |
+| Panasonic ERA3AEB103V, 10kΩ, 0603 | 1 | $0.53 | [LCSC C190610](https://www.lcsc.com/product-detail/C190610.html) |
 | XUNPU TS-1088-AC02016 tactile switch | 3 | $0.69 | [LCSC C720475](https://www.lcsc.com/product-detail/C720475.html) |
 | Murata PKMCS0909E4000-R1 Piezo Buzzer | 1 | $1.02 | [LCSC C910763](https://lcsc.com/product-detail/Buzzers_Murata-Electronics-PKMCS0909E4000-R1_C910763.html) | 
 | 0805 SMD LEDs | 6 | $2.43 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
