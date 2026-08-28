@@ -42,8 +42,8 @@ I also experimented with designing a simple case for the PCB in Onshape.
 ## Bill of Materials (BOM)
 |Item    |  Qty | Cost | Link |
 |--------|------|------|------|
-|PCB | 1 | $22.14 | | |
-| 3D printed case | 1 | $0.00 |  |
+|PCB | 1 | $22.14 | |[Gerber files](PCB/Timer-Dongle-gerbers.zip) |
+| 3D printed case | 1 | $0.00 | [Stl File](CAD/Timer.Dongle.stl) |
 |WCH CH552G Microcontroller | 1 | $0.75 | [LCSC C111292](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_WCH-Jiangsu-Qin-Heng-CH552G_C111292.html)|
 | Murata GRM188R72A104KA35D, 100nF, 0603 | 2 | $0.18 | [LCSC C77058](https://www.lcsc.com/product-detail/C77058.html) |
 | YAGEO RT0603BRD07470RL, 470Ω, 0603 | 6 | $0.55 | [LCSC C705779](https://www.lcsc.com/product-detail/C705779.html) |
@@ -52,7 +52,7 @@ I also experimented with designing a simple case for the PCB in Onshape.
 | Murata PKMCS0909E4000-R1 Piezo Buzzer | 1 | $1.02 | [LCSC C910763](https://lcsc.com/product-detail/Buzzers_Murata-Electronics-PKMCS0909E4000-R1_C910763.html) | 
 | 0805 SMD LEDs | 6 | $2.43 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
 | Shipping |  | $12,79 | |
-| Total |     | $ | |
+| Total |     | $41.08 | |
 
 ## Hack Club Dongle YSWS
 This project was created as part of Hack Club's YSWS program, [Dongle](https://dongle.hackclub.com). It was my first time designing a PCB and I learned a lot about schematics, PCB design, routing, and choosing components along the way.
