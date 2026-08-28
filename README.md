@@ -44,15 +44,15 @@ I also experimented with designing a simple case for the PCB in Onshape.
 |--------|------|------|------|
 |PCB | 1 | $22.02 | | |
 | 3D printed case | 1 | $0.00 |  |
-|WCH CH552G Microcontroller | 1 | $ 0.75 | [LCSC C111292](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_WCH-Jiangsu-Qin-Heng-CH552G_C111292.html)|
-| Murata GRM188R72A104KA35D, 100nF, 0603 | 2 | $ 0.18 | [LCSC C77058](https://www.lcsc.com/product-detail/C77058.html) |
-| 470Ω resistor, 0603 | 6 | $ 0.60 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC0603FR-07470RL/727256)|
-| 10kΩ resistor, 0603 | 3 | $ 0.30 | [DigiKey](https://www.digikey.de/en/products/detail/yageo/RC0603FR-0710KL/729827?utm.com) |
-| XUNPU TS-1088-AC02016 tactile switch | 3 | $ 0.21 | [JLCPCB C720475](https://jlcpcb.com/partdetail/XUNPU-TS_1088AC02016/C720475) |
-| Murata PKMCS0909E4000-R1 Piezo Buzzer | 1 | $ 1.02 | [LCSC C910763](https://lcsc.com/product-detail/Buzzers_Murata-Electronics-PKMCS0909E4000-R1_C910763.html) | 
-| 0805 SMD LEDs | 6 | $ 2.43 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
-| Shipping |  | ~ $ 35.00 | |
-| Total |     | ~ §62.51 | |
+|WCH CH552G Microcontroller | 1 | $0.75 | [LCSC C111292](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_WCH-Jiangsu-Qin-Heng-CH552G_C111292.html)|
+| Murata GRM188R72A104KA35D, 100nF, 0603 | 2 | $0.18 | [LCSC C77058](https://www.lcsc.com/product-detail/C77058.html) |
+| YAGEO RT0603BRD07470RL, 470Ω, 0603 | 6 | $0.55 | [LCSC C705779](https://www.lcsc.com/product-detail/C705779.html) |
+| Panasonic ERA3AEB103V, 10kΩ, 0603 | 3 | $0.53 | [LCSC C190610](https://www.lcsc.com/product-detail/C190610.html) |
+| XUNPU TS-1088-AC02016 tactile switch | 3 | $0.69 | [LCSC C720475](https://www.lcsc.com/product-detail/C720475.html) |
+| Murata PKMCS0909E4000-R1 Piezo Buzzer | 1 | $1.02 | [LCSC C910763](https://lcsc.com/product-detail/Buzzers_Murata-Electronics-PKMCS0909E4000-R1_C910763.html) | 
+| 0805 SMD LEDs | 6 | $2.43 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
+| Shipping |  | $12,79 | |
+| Total |     | $ | |
 
 ## Hack Club Dongle YSWS
-This Project was createdvas part of Hack Club's YSWS programm, [Dongle](https://dongle.hackclub.com). It was my first time designing a PCB and I learned a lot about schematics, PCB design, routing, and choosing components along the way.
+This project was created as part of Hack Club's YSWS program, [Dongle](https://dongle.hackclub.com). It was my first time designing a PCB and I learned a lot about schematics, PCB design, routing, and choosing components along the way.
