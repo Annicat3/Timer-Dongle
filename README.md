@@ -51,3 +51,6 @@ I also experimented with designing a simple case for the PCB in Onshape.
 | 0805 SMD LEDs | 6 | $ 2.43 | [LCSC C5879058](https://www.lcsc.com/product-detail/C5879058.html) |
 | Shipping |  | ~ $ 35.00 | |
 | Total |     | ~ § 40.49 | |
+
+## Hack Club Dongle YSWS
+This Project was createdvas part of Hack Club's YSWS programm, [Dongle](https://dongle.hackclub.com). It was my first time designing a PCB and I learned a lot about schematics, PCB design, routing, and choosing components along the way.
