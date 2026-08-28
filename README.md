@@ -1,6 +1,5 @@
 # Timer-Dongle
-
-[picture]
+<img width="1600" height="900" alt="3D-Viewer" src="https://github.com/user-attachments/assets/198aa865-ad6b-4abd-abc2-192e2c5db38f" />  
 
 ## What is it?
 This project is a small USB timer based on the CH552G microcontroller. It has 6 LEDs, a piezo buzzer and 2 buttons.  
@@ -20,19 +19,24 @@ Instead of using a normal rectangular PCB, I designed mine in the shape of a cat
 6. Press the time button to stop the alarm and choose a new time.
 
 ## PCB  
-I designed the schematic and PCB in KiCad.
+I designed the schematic and PCB in KiCad.  
 
+<img width="1254" height="928" alt="PCB" src="https://github.com/user-attachments/assets/e4781889-97f3-4d45-b299-6722d6c87a09" />   
 
 ### Schematic
+<img width="1544" height="916" alt="Schematics" src="https://github.com/user-attachments/assets/ed7efaac-c5b3-4719-9e10-4f87a40d11d6" />  
 
 ### 3D View
+<img width="1671" height="993" alt="3D-Viewer" src="https://github.com/user-attachments/assets/c35cde60-c479-46e0-b886-8d26e9d85ec0" />
 
 ## Firmware
 The Firmware is written for the CH552G using CH55xduino. 
 
 ## CAD
 I also experimented with designing a simple case for the PCB in Onshape.  
-[Onshape link](https://cad.onshape.com/documents/177762d436c217a9aff06dc5/w/83f6144ef2d4be5b708dd7f0/e/6c6f59c3ce17ec4403d9fee3?renderMode=0&uiState=6a90b07a0fc47dc81437df1d)
+[Onshape link](https://cad.onshape.com/documents/177762d436c217a9aff06dc5/w/83f6144ef2d4be5b708dd7f0/e/6c6f59c3ce17ec4403d9fee3?renderMode=0&uiState=6a90b07a0fc47dc81437df1d)  
+
+<img width="1163" height="810" alt="CAD-assembly" src="https://github.com/user-attachments/assets/21993e34-09c2-492b-8232-f7ca34f3e504" />
 
 
 ## Bill of Materials (BOM)
