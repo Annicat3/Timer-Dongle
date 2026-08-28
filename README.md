@@ -42,7 +42,8 @@ I also experimented with designing a simple case for the PCB in Onshape.
 ## Bill of Materials (BOM)
 |Item    |  Qty | Cost | Link |
 |--------|------|------|------|
-|PCB |  | $22.02 | | |
+|PCB | 1 | $22.02 | | |
+| 3D printed case | 1 | $0.00 |  |
 |WCH CH552G Microcontroller | 1 | $ 0.75 | [LCSC C111292](https://www.lcsc.com/product-detail/Microcontrollers-MCU-MPU-SOC_WCH-Jiangsu-Qin-Heng-CH552G_C111292.html)|
 | Murata GRM188R72A104KA35D, 100nF, 0603 | 2 | $ 0.18 | [LCSC C77058](https://www.lcsc.com/product-detail/C77058.html) |
 | 470Ω resistor, 0603 | 6 | $ 0.60 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/RC0603FR-07470RL/727256)|
